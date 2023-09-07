@@ -1,0 +1,104 @@
+{
+  "hash": "6a012ea4",
+  "browserHash": "4b3d2b3a",
+  "optimized": {
+    "react": {
+      "src": "../../../../../../../AppData/Local/Yarn/Berry/cache/react-npm-18.2.0-1eae08fee2-10.zip/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "17214cef",
+      "needsInterop": true
+    },
+    "@emotion/react/jsx-dev-runtime": {
+      "src": "../../../.yarn/__virtual__/@emotion-react-virtual-84517b6484/5/AppData/Local/Yarn/Berry/cache/@emotion-react-npm-11.11.1-a07d6a6ebd-10.zip/node_modules/@emotion/react/jsx-dev-runtime/dist/emotion-react-jsx-dev-runtime.browser.esm.js",
+      "file": "@emotion_react_jsx-dev-runtime.js",
+      "fileHash": "819217bb",
+      "needsInterop": false
+    },
+    "@mui/icons-material": {
+      "src": "../../../.yarn/__virtual__/@mui-icons-material-virtual-3ce58bc429/5/AppData/Local/Yarn/Berry/cache/@mui-icons-material-npm-5.14.7-1932aa08ed-10.zip/node_modules/@mui/icons-material/esm/index.js",
+      "file": "@mui_icons-material.js",
+      "fileHash": "0e80c2cd",
+      "needsInterop": false
+    },
+    "@mui/material": {
+      "src": "../../../.yarn/__virtual__/@mui-material-virtual-9d310044c2/5/AppData/Local/Yarn/Berry/cache/@mui-material-npm-5.14.7-bf16697acb-10.zip/node_modules/@mui/material/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "627ed3d7",
+      "needsInterop": false
+    },
+    "@mui/material/styles": {
+      "src": "../../../.yarn/__virtual__/@mui-material-virtual-9d310044c2/5/AppData/Local/Yarn/Berry/cache/@mui-material-npm-5.14.7-bf16697acb-10.zip/node_modules/@mui/material/styles/index.js",
+      "file": "@mui_material_styles.js",
+      "fileHash": "e26c2b99",
+      "needsInterop": false
+    },
+    "firebase/analytics": {
+      "src": "../../../../../../../AppData/Local/Yarn/Berry/cache/firebase-npm-10.3.0-f6478d0e61-10.zip/node_modules/firebase/analytics/dist/esm/index.esm.js",
+      "file": "firebase_analytics.js",
+      "fileHash": "f00a2006",
+      "needsInterop": false
+    },
+    "firebase/app": {
+      "src": "../../../../../../../AppData/Local/Yarn/Berry/cache/firebase-npm-10.3.0-f6478d0e61-10.zip/node_modules/firebase/app/dist/esm/index.esm.js",
+      "file": "firebase_app.js",
+      "fileHash": "0fd9927a",
+      "needsInterop": false
+    },
+    "firebase/auth": {
+      "src": "../../../../../../../AppData/Local/Yarn/Berry/cache/firebase-npm-10.3.0-f6478d0e61-10.zip/node_modules/firebase/auth/dist/esm/index.esm.js",
+      "file": "firebase_auth.js",
+      "fileHash": "19474ab1",
+      "needsInterop": false
+    },
+    "notistack": {
+      "src": "../../../.yarn/__virtual__/notistack-virtual-c7fccf2b10/5/AppData/Local/Yarn/Berry/cache/notistack-npm-3.0.1-2b0e3bf24a-10.zip/node_modules/notistack/notistack.esm.js",
+      "file": "notistack.js",
+      "fileHash": "0cb682ed",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../../.yarn/__virtual__/react-dom-virtual-22fafa95af/5/AppData/Local/Yarn/Berry/cache/react-dom-npm-18.2.0-dd675bca1c-10.zip/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "086384a6",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../../.yarn/__virtual__/react-router-dom-virtual-6668ef2655/5/AppData/Local/Yarn/Berry/cache/react-router-dom-npm-6.15.0-69f6e8fcf2-10.zip/node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "694e89d6",
+      "needsInterop": false
+    },
+    "recoil": {
+      "src": "../../../.yarn/__virtual__/recoil-virtual-163b5d1a13/5/AppData/Local/Yarn/Berry/cache/recoil-npm-0.7.7-4452f58b67-10.zip/node_modules/recoil/es/index.js",
+      "file": "recoil.js",
+      "fileHash": "0e681180",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-7YJP7N33": {
+      "file": "chunk-7YJP7N33.js"
+    },
+    "chunk-26NOXINX": {
+      "file": "chunk-26NOXINX.js"
+    },
+    "chunk-77GP7HPY": {
+      "file": "chunk-77GP7HPY.js"
+    },
+    "chunk-7JLKJ7WH": {
+      "file": "chunk-7JLKJ7WH.js"
+    },
+    "chunk-PBQUIXTM": {
+      "file": "chunk-PBQUIXTM.js"
+    },
+    "chunk-BMPAPRKI": {
+      "file": "chunk-BMPAPRKI.js"
+    },
+    "chunk-VQZU4KMO": {
+      "file": "chunk-VQZU4KMO.js"
+    },
+    "chunk-5WWUZCGV": {
+      "file": "chunk-5WWUZCGV.js"
+    }
+  }
+}
